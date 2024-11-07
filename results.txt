@@ -1,0 +1,5 @@
+Computer Name: Jannis
+Date of Test: 2024-11-07 13:03:14
+Bubble Sort Time: 3.885494 seconds
+Quick Sort Time: 0.021030 seconds
+
